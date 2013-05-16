@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.license = 'MIT'
   s.author = 'Matt Stevens'
   s.source = { :git => 'https://github.com/santosdiez/RoutingHTTPServer.git' }
-  s.source_files = 'source/*.{h,m}'
+  s.source_files = 'RoutingHTTPServer/*.{h,m}'
   s.requires_arc = true
   s.dependency 'CocoaHTTPServer', '~> 2.3'
 end

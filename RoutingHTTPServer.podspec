@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary = 'A routing API for CocoaHTTPServer.'
   s.homepage = 'https://github.com/santosdiez/RoutingHTTPServer'
   s.license = 'MIT'
-  s.author = 'Matt Stevens'
+  s.author = 'Borja Santos-Diez'
   s.source = { :git => 'https://github.com/santosdiez/RoutingHTTPServer.git' }
   s.source_files = 'RoutingHTTPServer/*.{h,m}'
   s.requires_arc = true
